@@ -1,0 +1,23 @@
+{
+  "name": "avantium",
+  "version": "0.1.0",
+  "description": "Unopinionated dependency injection container",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atamarzban/avantium.git"
+  },
+  "author": {
+    "name" : "Ata Marzban",
+    "email" : "atamarzban@gmail.com",
+    "url" : "http://atamarzban.com/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atamarzban/avantium/issues"
+  },
+  "homepage": "https://github.com/atamarzban/avantium#readme"
+}

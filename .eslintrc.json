@@ -17,6 +17,6 @@
     "plugins": [
         "@typescript-eslint"
     ],
-    "rules": {
-    }
+    "files": ["src/**/*.ts", "src/**/*.js"],
+    "rules": {}
 }

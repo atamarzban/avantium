@@ -11,13 +11,16 @@
     "url": "git+https://github.com/atamarzban/avantium.git"
   },
   "author": {
-    "name" : "Ata Marzban",
-    "email" : "atamarzban@gmail.com",
-    "url" : "http://atamarzban.com/"
+    "name": "Ata Marzban",
+    "email": "atamarzban@gmail.com",
+    "url": "http://atamarzban.com/"
   },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/atamarzban/avantium/issues"
   },
-  "homepage": "https://github.com/atamarzban/avantium#readme"
+  "homepage": "https://github.com/atamarzban/avantium#readme",
+  "volta": {
+    "node": "16.14.2"
+  }
 }
